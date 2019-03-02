@@ -14,9 +14,13 @@
 * [Golang](#golang)
 * [Gulp](#gulp)
 * [Haskell](#haskell)
+* [Java](#java)
 * [Javascript](#javascript)
   * [Angular.js](#angularjs)
+  * [Elm](#elm)
   * [Ember.js](#emberjs)
+  * [Node.js](#nodejs)
+  * [p5.js](#p5js)
   * [React.js](#reactjs)
 * [Kotlin](#kotlin)
 * [Language Agnostic](#language-agnostic)
@@ -42,7 +46,7 @@
 ### C++
 
 * [C++ Programming Video Lectures](https://www.youtube.com/playlist?list=PLTZbNwgO5ebo64D1k0DJQGX30X6iSTmRr) (screencast)
-* [C++ STL ](https://www.youtube.com/playlist?list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb) (screencast)
+* [C++ STL](https://www.youtube.com/playlist?list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb) (screencast)
 * [CppCast](http://cppcast.com) (podcast)
 
 
@@ -69,6 +73,7 @@
 * [Linear Digressions](http://www.lineardigressions.com) (podcast)
 * [O'Reilly Data Show Podcast](https://www.oreilly.com/topics/oreilly-data-show-podcast) (podcast)
 * [Partially Derivative](http://partiallyderivative.com) (podcast)
+* [Super Data Science](https://www.superdatascience.com/podcast/) (podcast) 
 * [Talking Machines](http://www.thetalkingmachines.com) (podcast)
 
 
@@ -96,6 +101,7 @@
 ### Git
 
 * [GitMinutes](http://www.gitminutes.com) (podcast)
+* [The Coding Train - Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) (screencast)
 
 
 ### Golang
@@ -122,6 +128,11 @@
 * [The Haskell Cast](http://www.haskellcast.com) (podcast)
 
 
+### Java
+
+* [Building a Java & Spring Boot app: Kid-Bank development](https://www.youtube.com/playlist?list=PLBHctPrH7Z29W8XtVDyc_mMvD2GO7GIF2) - Ted M. Young (screencast)
+
+
 ### Javascript
 
 * [FiveJS](https://fivejs.codeschool.com) (podcast)
@@ -141,14 +152,30 @@
 * [Angular Air](https://angularair.com) (podcast)
 
 
+#### Elm
+
+* [Elm Town](https://elmtown.audio) (podcast)
+
+
 #### Ember.js
 
 * [Ember Weekend](https://emberweekend.com/episodes) (podcast)
 
 
+#### Node.js
+
+* [Nodeup](http://nodeup.com) (podcast)
+
+
+#### p5.js
+
+* [Code! Programming with p5.js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) (screencast)
+
+
 #### React.js
 
 * [React Native Podcast](https://devchat.tv/react-native-radio) (podcast)
+* [React Podcast](https://reactpodcast.simplecast.fm) (podcast)
 * [ReactCasts](https://www.youtube.com/c/reactcasts) (screencast)
 
 
@@ -162,12 +189,14 @@
 
 * [/dev/hell](http://devhell.info) (podcast)
 * [Arrested DevOps](https://www.arresteddevops.com) (podcast)
+* [baseCS](https://www.codenewbie.org/basecs) (podcast based on [a series of posts on medium](https://medium.com/basecs))
 * [Beats, Rye & Types](http://beatsryetypes.com) (podcast)
 * [Between | Screens Podcast](https://soundcloud.com/between-screens) (podcast)
 * [BSDTalk](http://bsdtalk.blogspot.com) (podcast)
 * [CodeNewbie](http://www.codenewbie.org/podcast) (podcast)
 * [CodePen Radio](https://blog.codepen.io/radio/) (podcast)
 * [Coding Blocks](http://www.codingblocks.net) (podcast)
+* [Command Line Heroes](https://www.redhat.com/en/command-line-heroes) (podcast)
 * [CTRL+CLICK CAST](http://ctrlclickcast.com) (podcast)
 * [Developer On Fire](http://developeronfire.com) (podcast)
 * [Developer Tea](https://developertea.com) (podcast)
